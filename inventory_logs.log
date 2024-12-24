@@ -1,0 +1,36 @@
+déc. 24, 2024 11:54:58 PM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 24, 2024 11:54:59 PM org.example.server.ClientHandler run
+SEVERE: Error handling client: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+déc. 25, 2024 12:00:22 AM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 25, 2024 12:04:56 AM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 25, 2024 12:08:22 AM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 25, 2024 12:11:36 AM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 25, 2024 12:11:37 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 12:17:13 AM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 25, 2024 12:17:14 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 12:17:55 AM org.example.server.ClientHandler run
+INFO: Product updated: Bureau Ajustable
+déc. 25, 2024 12:17:55 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 12:18:05 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 12:18:17 AM org.example.server.ClientHandler run
+INFO: Search performed 
+déc. 25, 2024 12:18:23 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 12:18:53 AM org.example.server.ClientHandler run
+INFO: true
+déc. 25, 2024 12:18:53 AM org.example.server.ClientHandler run
+INFO: Product deleted with ID: 8
+déc. 25, 2024 12:18:54 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 12:19:14 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
