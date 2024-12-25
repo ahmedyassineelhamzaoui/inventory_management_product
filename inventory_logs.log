@@ -34,3 +34,9 @@ déc. 25, 2024 12:18:54 AM org.example.server.ClientHandler run
 INFO: Sent all products to client
 déc. 25, 2024 12:19:14 AM org.example.server.ClientHandler run
 INFO: Sent all products to client
+déc. 25, 2024 1:05:38 AM org.example.server.InventoryServer start
+INFO: Server started on port 5000
+déc. 25, 2024 1:05:39 AM org.example.server.ClientHandler run
+INFO: Sent all products to client
+déc. 25, 2024 1:05:50 AM org.example.server.ClientHandler run
+INFO: Search performed 
