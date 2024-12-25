@@ -1,10 +1,8 @@
 
-a
-java:S1192U"FDefine a constant instead of duplicating this literal "price" 3 times.(ïÚ®ùÿÿÿÿ
-\
-java:S1192W"FDefine a constant instead of duplicating this literal "stock" 3 times.(ó›Ëü
-d
-java:S1192V"IDefine a constant instead of duplicating this literal "category" 3 times.(øµÅÏÿÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–®‘Õùÿÿÿÿ
-E
-java:S2115")Add password protection to this database.(Œú¦$8¶÷ÉÖ¿2
+h
+java:S1192S"FDefine a constant instead of duplicating this literal "price" 3 times.(ïÚ®ùÿÿÿÿ8ó¿óØ¿2
+c
+java:S1192U"FDefine a constant instead of duplicating this literal "stock" 3 times.(ó›Ëü8ö¿óØ¿2
+k
+java:S1192T"IDefine a constant instead of duplicating this literal "category" 3 times.(øµÅÏÿÿÿÿÿ8ø¿óØ¿2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–®‘Õùÿÿÿÿ8ÄÀóØ¿2

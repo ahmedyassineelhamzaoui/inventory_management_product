@@ -1,5 +1,6 @@
 package org.example.DAO;
 
+import org.example.database.DatabaseConfig;
 import org.example.model.Product;
 
 import java.sql.Connection;
@@ -14,13 +15,10 @@ import java.util.logging.Logger;
 
 public class ProductDAOImpl implements ProductDAO {
     private Connection conn;
-    private static final String URL = "jdbc:mysql://localhost:3306/inventory";
-    private static final String USER = "root";
-    private static final String PASSWORD = "";
 
     public ProductDAOImpl() {
         try {
-            conn = DriverManager.getConnection(URL, USER, PASSWORD);
+            conn = DriverManager.getConnection(DatabaseConfig.getUrl(), DatabaseConfig.getUser(), DatabaseConfig.getPassword());
         } catch (Exception e) {
             Logger.getLogger(ProductDAOImpl.class.getName()).log(Level.SEVERE, null, e);
         }
